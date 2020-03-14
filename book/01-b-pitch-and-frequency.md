@@ -146,7 +146,9 @@ Shortcuts are taken all the time to make things easier to read and
 equate. Multiplication can be seen as a shorthand for repeated
 additions, for example, 5x10 = 5+5+5+5+5+5+5+5+5+5. Exponents are
 shorthand for repeated multiplications, 3^5^ = 3x3x3x3x3. Logarithms are
-shorthand for exponents and are used in many areas of science and
+shorthand for finding which exponent will reach a number, log~10~100 = 2 because 100 = 10^2^. 
+Because we can cover large distances between numbers by changing exponents only slightly, 
+logarithms are used in many areas of science and
 engineering in which quantities vary over a large range. Examples of
 logarithmic scales include the decibel scale, the Richter scale for
 measuring earthquake magnitudes and the astronomical scale of stellar
